@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1400&color=00C896&center=true&vCenter=true&width=900&lines=web3+builder;smart+contracts+%2B+frontend;Celo+%7C+XRPL+%7C+EVM;retro+pixel+energy" />
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-axmc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-axmc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🕹️ about me
@@ -48,13 +53,6 @@ I like things that feel clear, useful, and a little experimental.
 > learning more rust
 > making things less confusing
 ```
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-axmc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-axmc&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
