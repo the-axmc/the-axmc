@@ -1,7 +1,4 @@
 <!-- PIXEL HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3a86ff,100:00c896&height=220&section=header&text=Andrea%20%7C%20the-axmc&fontSize=38&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=pixels,%20protocols,%20and%20shipped%20things&descAlignY=58" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1400&color=00C896&center=true&vCenter=true&width=900&lines=web3+builder;smart+contracts+%2B+frontend;Celo+%7C+XRPL+%7C+EVM;retro+pixel+energy" />
@@ -49,25 +46,7 @@ I like things that feel clear, useful, and a little experimental.
 
 ---
 
-## 📟 terminal
-
-```bash
-andrea@the-axmc:~$ whoami
-web3 builder
-
-andrea@the-axmc:~$ focus
-smart contracts
-frontend + wallet connection
-governance mechanics
-real-world asset experiments
-
-andrea@the-axmc:~$ status
-shipping
-```
-
----
-
-## 🧠 now
+## 📟 now
 
 ```txt
 > writing contracts
@@ -78,8 +57,6 @@ shipping
 ```
 
 ---
-
-## 📊 stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-axmc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -96,13 +73,13 @@ shipping
 
 ---
 
-## 🌍 links
+##  links
 
 - website: [axmc.xyz](https://axmc.xyz)
 
 ---
 
-## 🎮 open to
+## open to
 
 - hackathons
 - collabs
