@@ -1,7 +1,7 @@
 <!-- PIXEL HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1400&color=00C896&center=true&vCenter=true&width=900&lines=web3+builder;smart+contracts+%2B+frontend;Celo+%7C+XRPL+%7C+EVM;retro+pixel+energy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1400&color=00C896&center=true&vCenter=true&width=900&lines=web3+builder;AI agents;EVM;retro pixel energy" />
 </p>
 
 <p align="center">
