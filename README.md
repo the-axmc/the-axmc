@@ -1,16 +1,115 @@
-## Hi there 👋
+<!-- PIXEL HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3a86ff,100:00c896&height=220&section=header&text=Andrea%20%7C%20the-axmc&fontSize=38&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=pixels,%20protocols,%20and%20shipped%20things&descAlignY=58" />
+</p>
 
-<!--
-**the-axmc/the-axmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1400&color=00C896&center=true&vCenter=true&width=900&lines=web3+builder;smart+contracts+%2B+frontend;Celo+%7C+XRPL+%7C+EVM;retro+pixel+energy" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ about me
+
+hey, i'm **andlopvic**.
+
+I build onchain apps, test economic systems, and ship products for communities, events, and real use cases.
+
+Usually that means:
+
+- writing smart contracts
+- connecting frontends to wallets
+- building with EVM tools
+- testing governance and asset flows
+- turning messy ideas into something people can actually use
+
+I like things that feel clear, useful, and a little experimental.
+
+---
+
+## ⚙️ stack
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Viem-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Wagmi-111111?style=for-the-badge&logo=webauthn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-111111?style=for-the-badge&logo=ethereum&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/IPFS-111111?style=for-the-badge&logo=ipfs&logoColor=65C2CB" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Celo-162A1C?style=for-the-badge&logo=celo&logoColor=35D07F" />
+  <img src="https://img.shields.io/badge/XRPL-111111?style=for-the-badge&logo=xrp&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVM-111111?style=for-the-badge&logo=ethereum&logoColor=8A92B2" />
+  <img src="https://img.shields.io/badge/Farcaster-111111?style=for-the-badge&logo=warpcast&logoColor=8A63D2" />
+</p>
+
+---
+
+## 📟 terminal
+
+```bash
+andrea@the-axmc:~$ whoami
+web3 builder
+
+andrea@the-axmc:~$ focus
+smart contracts
+frontend + wallet connection
+governance mechanics
+real-world asset experiments
+
+andrea@the-axmc:~$ status
+shipping
+```
+
+---
+
+## 🧠 now
+
+```txt
+> writing contracts
+> testing app flows
+> cleaning architecture
+> learning more rust
+> making things less confusing
+```
+
+---
+
+## 📊 stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-axmc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-axmc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-axmc/the-axmc/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌍 links
+
+- website: [axmc.xyz](https://axmc.xyz)
+
+---
+
+## 🎮 open to
+
+- hackathons
+- collabs
+- weird but useful protocol ideas
+- open source work
+- products that need on-chain logic without the fluff
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-axmc&label=profile+views&color=0e75b6&style=flat" />
+</p>
