@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1400&color=00C896&center=true&vCenter=true&width=760&lines=web3%20builder;AI%20agents;EVM;retro%20pixel%20energy"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1400&color=00C896&center=true&vCenter=true&width=760&lines=web3%20builder;AI%20agents;retro%20pixel%20energy"
     alt="Typing SVG"
   />
 </p>
