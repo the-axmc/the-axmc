@@ -37,13 +37,6 @@ I like things that feel clear, useful, and a little experimental.
   <img src="https://img.shields.io/badge/IPFS-111111?style=for-the-badge&logo=ipfs&logoColor=65C2CB" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Celo-162A1C?style=for-the-badge&logo=celo&logoColor=35D07F" />
-  <img src="https://img.shields.io/badge/XRPL-111111?style=for-the-badge&logo=xrp&logoColor=white" />
-  <img src="https://img.shields.io/badge/EVM-111111?style=for-the-badge&logo=ethereum&logoColor=8A92B2" />
-  <img src="https://img.shields.io/badge/Farcaster-111111?style=for-the-badge&logo=warpcast&logoColor=8A63D2" />
-</p>
-
 ---
 
 ## 📟 now
